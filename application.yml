@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: root
+      password: password
+      database: roadtoglory
+      host: 192.168.1.170
+      port: 27017
